@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab 5</string>
+    <string name="scan_for_bluetooth">Scan for bluetooth</string>
+</resources>
